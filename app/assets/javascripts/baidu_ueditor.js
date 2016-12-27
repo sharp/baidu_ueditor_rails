@@ -11,6 +11,5 @@
 // GO AFTER THE REQUIRES BELOW.
 //
 //= require ueditor/preinit
-//= require ueditor/ueditor.config
 //= require ueditor/ueditor.all.min
 
